@@ -1,0 +1,16 @@
+{
+  "name": "video-downloader",
+  "version": "1.0.0",
+  "description": "For all social media video downloading website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Youndu Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
